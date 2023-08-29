@@ -2,7 +2,8 @@
 
 Convert plain text to Morse code and visualize it using an Arduino board and an LED.
 
-![Morse Code Converter](images/morse_code_converter.jpg)
+ ![image](https://github.com/ingli0/MorseArduino/assets/76855285/1b392d8f-7e9c-401b-ac04-1d8424ed4a62)
+
 
 ## Table of Contents
 
@@ -57,3 +58,6 @@ Contributions are welcome! If you encounter any issues, have suggestions for imp
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+![image](https://github.com/ingli0/MorseArduino/assets/76855285/469c3c5c-6a45-435b-92b7-1620f367f028)
+
