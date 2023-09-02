@@ -14,7 +14,7 @@ Convert plain text to Morse code and visualize it using an Arduino board and an 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
